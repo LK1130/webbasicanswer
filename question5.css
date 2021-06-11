@@ -1,0 +1,106 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+body {
+  background-color: #f7e0da;
+}
+
+.main_bd {
+  margin: auto;
+  width: 100%;
+}
+
+.bgimage {
+  width: 100%;
+}
+
+.header {
+  background-color: #6a45d8;
+}
+
+.menu {
+  text-align: center;
+  height: 50px;
+  padding-top: 15px;
+}
+.home,
+.service,
+.aboutus,
+.contact {
+  margin: 40px;
+  color: white;
+  font-size: 16px;
+}
+
+.signin {
+  background-color: #6a45d8;
+  border-color: white;
+  color: white;
+  border-radius: 15px;
+  width: 100px;
+  height: 30px;
+  border-style: solid;
+}
+
+.package {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.table {
+  width: 100%;
+}
+
+.package1 {
+  padding: 10px;
+  text-align: center;
+  margin: auto;
+  width: 80%;
+  height: 220px;
+  background-color: #6a45d8;
+  border-style: solid;
+  border-color: white;
+  border-radius: 20px;
+  color: white;
+}
+
+.title {
+  margin-bottom: 12px;
+  font-size: 18px;
+  color: rgb(223, 185, 140);
+}
+.detail {
+  line-height: 1.6;
+  font-size: 15px;
+}
+
+.redcolor {
+  color: rgb(197, 47, 47);
+}
+
+.goldcolor {
+  color: gold;
+}
+
+.buy {
+  margin-top: 12px;
+  background-color: rgb(106, 69, 216);
+  border-color: white;
+  color: rgb(223, 185, 140);
+  border-radius: 15px;
+  width: 150px;
+  height: 30px;
+  border-style: solid;
+}
+
+.footer {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  color: white;
+  font-size: 18px;
+  background-color: rgb(106, 69, 216);
+}
